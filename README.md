@@ -7,7 +7,7 @@
 I lead a NASA Psyche rover team, break things in security labs, and build AI tools that actually get used.
 
 ![ASU](https://img.shields.io/badge/Arizona%20State-CS%20(Cybersecurity)-8C1D40)
-![NASA](https://img.shields.io/badge/NASA%20Team%20Excellence%20Award-2025%20%7C%202026-orange)
+![EPICS Excellence Award](https://img.shields.io/badge/EPICS%20Excellence%20Award-2025%20%7C%202026-orange)
 ![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Intern%20'26-86BC25)
 ![Mumbai → Tempe](https://img.shields.io/badge/Mumbai%20→%20Tempe-🌏-blue)
 
@@ -21,7 +21,7 @@ I lead a NASA Psyche rover team, break things in security labs, and build AI too
 I lead ASU's NASA Psyche Autonomous Rover Team (11 engineers across CS, EE, ME and aerospace).
 - A cube-shaped rover that moves by spinning internal reaction wheels to tip from face to face, built for ~0.144 m/s² gravity
 - Perception on an NVIDIA Jetson: OAK-D Lite stereo camera + YOLO, Livox Mid-360 LiDAR with FAST-LIO SLAM (ROS 2), and PROCEED / CAUTION / STOP navigation decisions
-- 🏆 **NASA Team Excellence Award, 2025 and 2026** · [listed on the NASA Psyche capstone site](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-platinum-class/robotic-explorer-for-hypothesized-surfaces-asu-b/)
+- 🏆 **EPICS Excellence Award, 2025 and 2026** · [listed on the NASA Psyche capstone site](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-platinum-class/robotic-explorer-for-hypothesized-surfaces-asu-b/)
 
 **PLUTO: Psyche Learning & Understanding Technical Oracle** *(private for now)*
 A cited research assistant for my rover team. It answers from our own knowledge base first and the web second, and shows sources for everything. Next.js · TypeScript · Claude API.
@@ -36,8 +36,8 @@ A cited research assistant for my rover team. It answers from our own knowledge 
 
 ### 🏆 Hackathons & awards
 
-- 🥇 **DevHacks S2**, winner · built **Velora** at DevHacks S3
-- ✈️ **Devils Invent × Honeywell Aerospace**, team lead: *AeroShield*, an intelligent jet-engine anti-icing system with a Three.js 3D simulation
+- 🥇 **[DevHacks S2](https://github.com/aayouiyer/deepfake-inspector)**, winner · built **[Velora](https://github.com/aayouiyer/velora)** at DevHacks S3
+- ✈️ **Devils Invent × Honeywell Aerospace**, team lead: *[AeroShield](https://github.com/aayouiyer/aeroshield)*, an intelligent jet-engine anti-icing system with a Three.js 3D simulation
 - 🏅 **SUN Award** for STEM Mentorship (April 2026)
 - 🎓 Dean's List · Grand Challenges Scholars Program (Security track)
 
